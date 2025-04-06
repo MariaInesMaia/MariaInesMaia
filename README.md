@@ -11,7 +11,7 @@
 
 ### 🐝 About Me
 
-- I’m interested in **[Software development](https://github.com/topics/software-development)**, **[Cyber Security](https://github.com/topics/cyber-security)**, **[AI](https://github.com/topics/artificial-intelligence)**, **[Data Analyst](https://github.com/topics/data-analyst)**, **[Data Engineer](https://github.com/topics/data-engineering)**, **[Machine Learning](https://github.com/topics/machine-learning)**, and **[Modern Optimization](https://github.com/topics/optimization)**
+- I’m interested in **[Software development](https://github.com/topics/software-development)**, **[Cyber Security](https://github.com/topics/cyber-security)**, **[Data Analyst](https://github.com/topics/data-analyst)**, **[Data Engineer](https://github.com/topics/data-engineering)**, **[Machine Learning](https://github.com/topics/machine-learning)**, and **[Modern Optimization](https://github.com/topics/optimization)**
 - I’m currently learning **Engenharia e Gestão de Sistemas de Informação** in **Universidade do Minho**.
 - I'm currently a **Member** of the **Projects Department** at <a href="https://epicje.pt/" target="_blank"><strong>EPIC Júnior</strong></a>
 
