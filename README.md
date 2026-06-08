@@ -55,10 +55,15 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-stats-alpha.vercel.app/api?username=MariaInesMaia&cc=1e1e2e&tc=cdd6f4&ic=cba6f7&bc=1e1e2e" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaInesMaia&layout=compact&theme=catppuccin_mocha&hide_border=true" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaInesMaia&theme=catppuccin_mocha" width="65%" alt="Profile Details"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaInesMaia&theme=catppuccin_mocha" width="30%" alt="Top Languages"/>
 </div>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MariaInesMaia&theme=catppuccin-mocha&hide_border=true" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=MariaInesMaia&theme=catppuccin-mocha&hide_border=true" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaInesMaia&theme=catppuccin_mocha" width="30%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MariaInesMaia&theme=tokyo-night&hide_border=true&area=true&bg_color=1e1e2e&color=cba6f7&line=cba6f7&point=f5c2e7" width="95%" alt="Activity Graph"/>
 </div>
