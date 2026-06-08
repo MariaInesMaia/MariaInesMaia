@@ -55,8 +55,8 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaInesMaia&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github&cache_seconds=1800" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaInesMaia&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8&cache_seconds=1800" width="40%"/>
+  <img src="https://github-stats-alpha.vercel.app/api?username=MariaInesMaia&cc=1e1e2e&tc=cdd6f4&ic=cba6f7&bc=1e1e2e" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaInesMaia&layout=compact&theme=catppuccin_mocha&hide_border=true" width="40%"/>
 </div>
 
 <div align="center">
