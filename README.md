@@ -55,8 +55,13 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MariaInesMaia&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github&bg_color=00000000" width="49%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaInesMaia&layout=compact&theme=catppuccin_mocha&hide_border=true&bg_color=00000000" width="40%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaInesMaia&theme=catppuccin_mocha" width="100%"/>
+</div>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaInesMaia&theme=catppuccin_mocha" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaInesMaia&theme=catppuccin_mocha" width="32%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaInesMaia&theme=catppuccin_mocha" width="32%"/>
 </div>
 
 <div align="center">
