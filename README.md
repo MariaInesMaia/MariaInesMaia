@@ -55,15 +55,10 @@
 ### 📊 Stats
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MariaInesMaia&theme=catppuccin_mocha" width="100%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=MariaInesMaia&show_icons=true&theme=catppuccin_mocha&hide_border=true&rank_icon=github" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MariaInesMaia&layout=compact&theme=catppuccin_mocha&hide_border=true&langs_count=8" width="40%"/>
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=MariaInesMaia&theme=catppuccin_mocha" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MariaInesMaia&theme=catppuccin_mocha" width="32%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=MariaInesMaia&theme=catppuccin_mocha" width="32%"/>
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=MariaInesMaia&theme=catppuccin-mocha&hide_border=true&background=00000000" width="55%"/>
+  <img src="https://streak-stats.demolab.com/?user=MariaInesMaia&theme=catppuccin-mocha&hide_border=true" width="55%"/>
 </div>
